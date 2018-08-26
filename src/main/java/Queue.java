@@ -4,6 +4,7 @@
  * and memory throughput.
  *
  * @author Quinn Liu(quinnliu@vt.edu)
+ * Adding Queue **************************
  */
 public class Queue<E> {
     private static final int DEFAULT_SIZE = 10;
